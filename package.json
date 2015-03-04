@@ -1,0 +1,29 @@
+{
+  "name": "jvectormap",
+  "version": "2.0.2",
+  "description": "jvectormap bower wrapper",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lyml/jvectormap.git"
+  },
+  "author": "",
+  "license": "mixed",
+  "bugs": {
+    "url": "https://github.com/lyml/jvectormap/issues"
+  },
+  "homepage": "https://github.com/lyml/jvectormap",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-uglify": "^0.8.0",
+    "load-grunt-tasks": "^3.1.0"
+  }
+}

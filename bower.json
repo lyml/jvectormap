@@ -1,0 +1,16 @@
+{
+  "name": "jvectormap",
+  "version": "2.0.2",
+  "main": [
+    "dist/jvectormap.min.js",
+    "dist/jvectormap.min.css"
+  ],
+  "ignore": [
+    "**",
+    "!dist/**"
+  ],
+  "dependencies": {
+    "jquery": "~1.8",
+    "jquery-mousewheel": "~3.1.9"
+  }
+}
